@@ -1,0 +1,14 @@
+.ipynb_checkpoints\Week02-checkpoint.ipynb
+subfolder\file1.txt
+subfolder\file2.txt
+subfolder\README.md
+subfolder\README_TOO.md
+newModule.py
+outputFile1.txt
+outputFile2.txt
+outputFile5.txt
+utils.py
+utils.pyc
+Week02.ipynb
+.ipynb_checkpoints
+subfolder
