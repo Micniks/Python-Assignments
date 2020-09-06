@@ -1,9 +1,8 @@
 .ipynb_checkpoints
+exercise1.py
 newModule.py
-outputFile1.txt
-outputFile2.txt
-outputFile5.txt
 subfolder
 utils.py
 utils.pyc
 Week02.ipynb
+__pycache__

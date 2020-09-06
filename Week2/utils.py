@@ -9,10 +9,10 @@ def first_function(path, output_file):
 def second_function(path, output_file):
     lst = []
     for root, directories, files in os.walk(path, topdown=False):
-    	for name in files:
-		lst.append(os.path.join(root, name)[len(path):])
-	for name in directories:
-		lst.append(os.path.join(root, name)[len(path):])
+            for name in files:
+                lst.append(os.path.join(root, name)[len(path):])
+            for name in directories:
+                lst.append(os.path.join(root, name)[len(path):])
     with open(output_file, 'w') as file_object:
         for line in lst:
             file_object.write(line + "\n")
