@@ -22,7 +22,7 @@ def read_file(input_file, lst):
 if __name__ == '__main__':
     parser.add_argument('inputFile', help='Name of input file. Must be in the same directory as this file.')
     parser.add_argument('--file', '-file_name', help='Name of output file.')
-    parser.add_argument('strings', metavar='S', type=str, nargs='+')
+    parser.add_argument('strings', type=str, nargs='+')
     args = parser.parse_args()
 
     if args.file:
