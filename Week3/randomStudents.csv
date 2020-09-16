@@ -1,10 +1,15 @@
-1,Jordan Stone,Male,"[['Programming', '102', 'Peter', 10], ['Graphics', '103', 'Oliver', 15]]","['No Grade', 7]",JordanStone.img
-2,Alex Carter,Female,"[['Programming', '102', 'Peter', 10], ['Graphics', '103', 'Oliver', 15], ['Gaming', '105', 'Jennifer', 40]]","['No Grade', 'No Grade', 0]",AlexCarter.img
-3,Jules Grey,Male,"[['Programming', '102', 'Peter', 10], ['Security', '104', 'Mads', 30]]","[2, 10]",JulesGrey.img
-4,Alex Grey,Male,"[['Graphics', '103', 'Oliver', 15], ['Security', '104', 'Mads', 30], ['Gaming', '105', 'Jennifer', 40]]","[7, 12, 12]",AlexGrey.img
-5,Kim Carter,Male,"[['Programming', '102', 'Peter', 10], ['Security', '104', 'Mads', 30]]","[10, 'No Grade']",KimCarter.img
-6,Kim Wood,Male,"[['Math', '101', 'Peter', 20], ['Graphics', '103', 'Oliver', 15], ['Gaming', '105', 'Jennifer', 40]]","['No Grade', 'No Grade', 'No Grade']",KimWood.img
-7,Hunter Grey,Male,"[['Programming', '102', 'Peter', 10], ['Gaming', '105', 'Jennifer', 40]]","['No Grade', 4]",HunterGrey.img
-8,Ryley Bond,Female,"[['Programming', '102', 'Peter', 10], ['Security', '104', 'Mads', 30]]","['No Grade', 0]",RyleyBond.img
-9,Kim Bond,Male,"[['Security', '104', 'Mads', 30]]",[12],KimBond.img
-10,Ryley Parker,Female,"[['Math', '101', 'Peter', 20], ['Programming', '102', 'Peter', 10]]","['No Grade', 'No Grade']",RyleyParker.img
+1,Charlie Wood Baker,Male,"[['Gaming', '105', 'Jennifer', 40]]",[4.0],CharlieWoodBaker.img
+2,Charlie Parker Carter,Male,"[['Math', '101', 'Peter', 20], ['Graphics', '103', 'Oliver', 15], ['Security', '104', 'Mads', 30]]","['No Grade', 11.0, 'No Grade']",CharlieParkerCarter.img
+3,Charlie Parker Carter,Male,"[['Programming', '102', 'Peter', 10], ['Graphics', '103', 'Oliver', 15], ['Security', '104', 'Mads', 30]]","[0, 'No Grade', 'No Grade']",CharlieParkerCarter.img
+4,Ridley Wood Carter,Female,"[['Math', '101', 'Peter', 20], ['Graphics', '103', 'Oliver', 15], ['Security', '104', 'Mads', 30], ['Gaming', '105', 'Jennifer', 40]]","[7.0, 0, 'No Grade', 11.0]",RidleyWoodCarter.img
+5,Kim Wood Smith,Male,"[['Math', '101', 'Peter', 20], ['Programming', '102', 'Peter', 10], ['Security', '104', 'Mads', 30], ['Gaming', '105', 'Jennifer', 40]]","[0, 'No Grade', 4.0, 12.0]",KimWoodSmith.img
+6,Ryley Parker Carter,Male,"[['Programming', '102', 'Peter', 10]]",[0],RyleyParkerCarter.img
+7,Jordan Bond Black,Male,"[['Math', '101', 'Peter', 20], ['Graphics', '103', 'Oliver', 15]]","['No Grade', 'No Grade']",JordanBondBlack.img
+8,Ridley Smith Baker,Male,"[['Programming', '102', 'Peter', 10], ['Graphics', '103', 'Oliver', 15], ['Gaming', '105', 'Jennifer', 40]]","['No Grade', 'No Grade', 12.0]",RidleySmithBaker.img
+9,Hunter Bond Grey,Female,"[['Programming', '102', 'Peter', 10], ['Gaming', '105', 'Jennifer', 40]]","['No Grade', 0]",HunterBondGrey.img
+10,Kim Wood Wood,Female,"[['Programming', '102', 'Peter', 10], ['Graphics', '103', 'Oliver', 15]]","[4.0, 'No Grade']",KimWoodWood.img
+11,Ridley Smith Smith,Male,"[['Math', '101', 'Peter', 20], ['Programming', '102', 'Peter', 10]]","[3.0, 3.5]",RidleySmithSmith.img
+12,Jordan Bond Black,Male,"[['Programming', '102', 'Peter', 10], ['Graphics', '103', 'Oliver', 15], ['Gaming', '105', 'Jennifer', 40]]","['No Grade', -0.5, 0]",JordanBondBlack.img
+13,Alex Brown Brown,Female,"[['Gaming', '105', 'Jennifer', 40]]",['No Grade'],AlexBrownBrown.img
+14,Charlie Carter Baker,Male,[],[],CharlieCarterBaker.img
+15,Jordan Parker Brown,Female,"[['Math', '101', 'Peter', 20], ['Programming', '102', 'Peter', 10], ['Graphics', '103', 'Oliver', 15]]","[4.0, 3.5, 'No Grade']",JordanParkerBrown.img

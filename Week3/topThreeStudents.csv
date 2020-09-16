@@ -1,3 +1,3 @@
-2,Alex Carter,Female,"[['Programming', '102', 'Peter', 10], ['Graphics', '103', 'Oliver', 15], ['Gaming', '105', 'Jennifer', 40]]","['No Grade', 'No Grade', 0]",AlexCarter.img
-6,Kim Wood,Male,"[['Math', '101', 'Peter', 20], ['Graphics', '103', 'Oliver', 15], ['Gaming', '105', 'Jennifer', 40]]","['No Grade', 'No Grade', 'No Grade']",KimWood.img
-8,Ryley Bond,Female,"[['Programming', '102', 'Peter', 10], ['Security', '104', 'Mads', 30]]","['No Grade', 0]",RyleyBond.img
+3,Charlie Parker Carter,Male,"[['Programming', '102', 'Peter', 10], ['Graphics', '103', 'Oliver', 15], ['Security', '104', 'Mads', 30]]","[0, 'No Grade', 'No Grade']",CharlieParkerCarter.img
+6,Ryley Parker Carter,Male,"[['Programming', '102', 'Peter', 10]]",[0],RyleyParkerCarter.img
+7,Jordan Bond Black,Male,"[['Math', '101', 'Peter', 20], ['Graphics', '103', 'Oliver', 15]]","['No Grade', 'No Grade']",JordanBondBlack.img
