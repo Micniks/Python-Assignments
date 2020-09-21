@@ -4,4 +4,8 @@ Week 01: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v
 
 Week 02: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Micniks/Python-Assignments/master?filepath=Week2%2FWeek02.ipynb)
 
-Week 03: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Micniks/Python-Assignments/master?filepath=%2FWeek3%2FWeek03.ipynb)
+Week 03: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Micniks/Python-Assignments/master?filepath=Week3%2FWeek03.ipynb)
+
+Week 04: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Micniks/Python-Assignments/master?filepath=Week4%2FWeek04.ipynb)
+
+Week 05: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Micniks/Python-Assignments/master?filepath=Week5%2FWeek05.ipynb)
