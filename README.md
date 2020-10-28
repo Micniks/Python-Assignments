@@ -13,3 +13,7 @@ Week 05: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v
 Week 06: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Micniks/Python-Assignments/master?filepath=Week6%2FWeek06.ipynb)
 
 Week 07: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Micniks/Python-Assignments/master?filepath=Week7%2FSolved_Assignment%2FWeek07.ipynb)
+
+Week 08: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Micniks/Python-Assignments/master?filepath=Week8%2FSolved_Assignment%2FWeek08.ipynb)
+
+Week 09: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Micniks/Python-Assignments/master?filepath=Week9%2FSolved_Assignment%2FWeek09.ipynb)
