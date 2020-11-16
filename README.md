@@ -19,3 +19,5 @@ Week 08: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v
 Week 09: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Micniks/Python-Assignments/master?filepath=Week9%2FSolved_Assignment%2FWeek09.ipynb)
 
 Week 10: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Micniks/Python-Assignments/master?filepath=Week10%2FSolved_Assignment%2FWeek10.ipynb)
+
+Week 11: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Micniks/Python-Assignments/master?filepath=Week11%2FSolved_Assignment%2FWeek11.ipynb)
